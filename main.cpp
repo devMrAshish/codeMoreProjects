@@ -1,5 +1,5 @@
 int main(int argc, char const *argv[])
 {
-    int b;
+    int a;
     return 0;
 }
